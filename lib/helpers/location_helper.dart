@@ -1,7 +1,7 @@
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 /*
-const GOOGLE_API_KEY = 'AIzaSyCDyXURCDZXWL4lE9jeYTV5drRuutLNgak';
+const GOOGLE_API_KEY = 'xxxxxxxxURCDZXWL4lE9jeYTV5drRuutLNgak';
 
 // search for google maps static api
 class LocationHelper {
@@ -14,7 +14,7 @@ class LocationHelper {
 */
 
 const MAPBOX_API_KEY =
-    'pk.eyJ1IjoiZGVtaWFuMjAyMSIsImEiOiJja3dpOGl6YXMwbDJ2Mm5sNTNiM2NmN2xzIn0.QNli89KGJAB8lZklFjP0uw';
+    'pk.eyJ1IjoiZGVtaWFuMjAyMSIsImEiOiJsxxxxxxxxxxxxxsNTNiM2NmN2xzIn0.QNli89KGJAB8lZklFjP0uw';
 
 class LocationHelper {
   static String generateLocationPreviewImage(
