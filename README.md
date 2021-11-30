@@ -9,7 +9,7 @@ only free options to google_maps.
 
 This project uses:<\br>
 
-  cupertino_icons: ^1.0.2<\br>
+  cupertino_icons: ^1.0.2</br>
   provider: ^6.0.1<\br>
   flutter_map: ^0.14.0<\br>
   sqflite: ^2.0.0+4<\br>
