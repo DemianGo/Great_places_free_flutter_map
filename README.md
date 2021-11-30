@@ -1,16 +1,27 @@
 # udemy_great_placess_app
 
-A new Flutter project.
+A new Flutter project. From Max Udemy course.
+
+At section 13 it uses google maps that requires a credit card, if you don't want or don't have one, use this code with 
+only free options to google_maps.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project uses:
 
-A few resources to get you started if this is your first Flutter project:
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.1
+  flutter_map: ^0.14.0
+  sqflite: ^2.0.0+4
+  latlong: ^0.6.1
+  image_picker: ^0.8.4+1
+  location: ^4.3.0
+  path_provider: ^2.0.4
+  http: ^0.13.3
+  
+  Also MAPBOX for map tiles.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+No guarantees !!!
+Any issue feel free to mail me at: demianescobar@gmail.com
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thank you and have fun =]
