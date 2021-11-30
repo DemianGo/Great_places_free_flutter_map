@@ -61,11 +61,11 @@ class _MapScreenState extends State<MapScreen> {
         layers: [
           TileLayerOptions(
             urlTemplate:
-                "https://api.mapbox.com/styles/v1/demian2021/ckwii7q6b284d14s0jrauou3d/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiZGVtaWFuMjAyMSIsImEiOiJja3dpOGc2cHgxNXZoMnB1dGVvOWViaWs1In0.2x2m7ka-KZwzBR5XXgYkXQ",
+                "https://api.mapbox.com/styles/v1/dxxxxx021/ckwii7q6b284d14s0jrauou3d/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiZxxxxxxxxxxxxxxIsImEiOiJja3dpOGc2cHgxNXZoMnB1dGVvOWViaWs1In0.2x2m7ka-KZwzBR5XXgYkXQ",
             // subdomains: ['a', 'b', 'c'],
             additionalOptions: {
               'accessToken':
-                  'pk.eyJ1IjoiZGVtaWFuMjAyMSIsImEiOiJja3dpOGc2cHgxNXZoMnB1dGVvOWViaWs1In0.2x2m7ka-KZwzBR5XXgYkXQ',
+                  'pk.eyJ1IjoiZGVtaWFuMjAyMSIsImEiOiJja3dpOGc2cHgxNXZoMnBxxxxxxxxxxxxxxxxn0.2x2m7ka-KZwzBR5XXgYkXQ',
               'id': 'mapbox.mapbox-streets-v8',
             },
             attributionBuilder: (_) {
