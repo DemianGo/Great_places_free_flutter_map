@@ -1,9 +1,9 @@
 # udemy_great_places_app
-
+<br>
 A new Flutter project. From Max Udemy course.
-
+<br><br>
 At section 13 it uses google maps that requires a credit card, if you don't want or don't have one, use this code with 
-only free options to google_maps.
+only free options to google_maps.<br><br>
 
 ## Getting Started
 
@@ -18,10 +18,10 @@ This project uses:<br>
   location: ^4.3.0<br>
   path_provider: ^2.0.4<br>
   http: ^0.13.3<br><br>
-  
+  <br><br>
   Also MAPBOX for map tiles.
-<br>
-No guarantees !!!<br>
-Any issue feel free to mail me at: demianescobar@gmail.com
+<br><br>
+No guarantees !!!<br><br>
+Any issue feel free to mail me at: demianescobar@gmail.com<br><br>
 <br>
 Thank you and have fun =]
