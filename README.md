@@ -1,4 +1,4 @@
-# udemy_great_placess_app
+# udemy_great_places_app
 
 A new Flutter project. From Max Udemy course.
 
@@ -9,7 +9,7 @@ only free options to google_maps.
 
 This project uses:
 
-  cupertino_icons: ^1.0.2
+  cupertino_icons: ^1.0.2\n
   provider: ^6.0.1
   flutter_map: ^0.14.0
   sqflite: ^2.0.0+4
